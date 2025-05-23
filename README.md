@@ -13,6 +13,10 @@
 - **React Icons** – Popular icons in your React projects
 - **Swiper** – Modern mobile touch slider
 
+## 🔗 Live Demo
+
+Check out the live deployment on **[Vercel](https://skypilot-alpha.vercel.app/)**.
+
 ## Screenshots
 
 ![Screenshot 1](https://files.catbox.moe/i5dwoa.png)
