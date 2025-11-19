@@ -1,54 +1,21 @@
-# SkyPilot
+[![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=skypilot-alpha)](https://skypilot-alpha.vercel.app)
 
-**SkyPilot** is a sleek and modern landing page built using **React**, **Vite.js**, **React-Spring**, and **Styled Components**. This project delivers a visually engaging and interactive experience for users interested in drones and aerial technology.
+# SkyPilot | Landing Page
 
-## Technologies Used
+##### Created : 10/10/2024
 
-- **React** – JavaScript library for building user interfaces
-- **Vite.js** – Next Generation Frontend Tooling
-- **React-Spring** – A physics-based animation library for React
-- **Styled Components** – CSS-in-JS tool for styling React components
-- **Three.js** – 3D graphics library
-- **Pixi.js** – 2D rendering engine
-- **React Icons** – Popular icons in your React projects
-- **Swiper** – Modern mobile touch slider
+### Preview
 
-## 🔗 Live Demo
+![SkyPilot Preview](./public/Preview.png)
 
-Check out the live deployment on **[Vercel](https://skypilot-alpha.vercel.app/)**.
+#### Languages
 
-## Screenshots
+<div align="center">
 
-![Screenshot 1](https://files.catbox.moe/i5dwoa.png)
-![Screenshot 2](https://files.catbox.moe/u1qmah.png)
+  <img alt="React" title="React" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
 
-## Installation
+  <img alt="JavaScript" title="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 
-Clone the repository and install the dependencies:
+  <img alt="Styled Components" title="Styled Components" width="45px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
 
-```bash
-git clone https://github.com/beoipisilon/skypilot.git
-cd skypilot
-npm install
-```
-
-## Development
-To start the development server:
-
-```bash
-npm run dev
-```
-
-## Production Build
-To build the project for production:
-
-```bash
-npm run build
-```
-
-## Preview Production Build
-To preview the production build locally:
-
-```bash
-npm run preview
-```
+</div>
