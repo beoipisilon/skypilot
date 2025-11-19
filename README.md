@@ -2,7 +2,7 @@
 
 # SkyPilot | Landing Page
 
-##### Created : 10/10/2024
+##### Created : 06/05/2024
 
 ### Preview
 
